@@ -1,0 +1,15 @@
+C:\Users\Cliente\Downloads\dotnet\OldTest\bin\Debug\net6.0\OldTest.exe
+C:\Users\Cliente\Downloads\dotnet\OldTest\bin\Debug\net6.0\OldTest.deps.json
+C:\Users\Cliente\Downloads\dotnet\OldTest\bin\Debug\net6.0\OldTest.runtimeconfig.json
+C:\Users\Cliente\Downloads\dotnet\OldTest\bin\Debug\net6.0\OldTest.dll
+C:\Users\Cliente\Downloads\dotnet\OldTest\bin\Debug\net6.0\OldTest.pdb
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.csproj.AssemblyReference.cache
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.AssemblyInfoInputs.cache
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.AssemblyInfo.cs
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.dll
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\refint\OldTest.dll
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.pdb
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\OldTest.genruntimeconfig.cache
+C:\Users\Cliente\Downloads\dotnet\OldTest\obj\Debug\net6.0\ref\OldTest.dll
